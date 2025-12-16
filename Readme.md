@@ -36,8 +36,12 @@ Pregunta
 
 ### Apartado 3
 
-- Realiza otro cambio desde la web de tu repositorio en GitHub.
-- Utiliza pull para descargar los cambios realizados en tu repositorio.
+- Realiza otro cambio desde la web de tu repositorio en GitHub.  
+Realizamos el cambio desde Git Hub, sería el siguiente  
+![img_7.png](img_7.png)
+- Utiliza pull para descargar los cambios realizados en tu repositorio.  
+Desde la terminal de PyCharm hacemos git pull lo que combina el git fetch y git merge.  
+git pull origin main
 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
