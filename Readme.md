@@ -23,7 +23,7 @@ El paso fundamental para poder tener el clon es hacer el git clone dentro de la 
 
 ### Apartado 2
 
-- Realiza una modificación en el código en la web de tu repositorio en GitHub
+- Realiza una modificación en el código en la web de tu repositorio en GitHub (cambio realizado en Git Hub).
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
 Pregunta
