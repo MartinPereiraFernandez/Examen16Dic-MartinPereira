@@ -23,8 +23,12 @@ El paso fundamental para poder tener el clon es hacer el git clone dentro de la 
 
 ### Apartado 2
 
-- Realiza una modificación en el código en la web de tu repositorio en GitHub
-- Utiliza fetch para descargar los cambios realizados en tu repositorio.
+- Realiza una modificación en el código en la web de tu repositorio en GitHub  
+Realizamos el cambio desde Git Hub haciendo un commit, este sería el cambio realizado:  
+![img_2.png](img_2.png)
+- Utiliza fetch para descargar los cambios realizados en tu repositorio.  
+Para ello haremos git fetch origin en la terminal de PyCharm con lo que se hará el commit ya hecho desde Git Hub.  
+![img_3.png](img_3.png)
 
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
