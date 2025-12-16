@@ -1,5 +1,5 @@
-# Examen 1ª Evaluación (2ª Parte) - Control de Versiones
-
+# Examen 1ª Evaluación (2ª Parte) - Control de Versiones  
+Martín Pereira Fernández
 ---
 
 ## Instrucciones
@@ -9,11 +9,17 @@
 
 ### Apartado 1
 
-- Clona este repositorio.
-- Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.
+- Clona este repositorio.  
+Para ello debemos de copiar el anlace del repositorio que queremos clonar, acto siguiente haremos un git clone (enlace) en la terminal de PyCharm.  
+![img.png](img.png)
+- Modifica este Readme, poniendo tu nombre completo, realiza un `commit` con el mensaje *"Apartado 1"* y un `push`.  
+Tras poner el nombre haremos un commit and push añadiendo el texto "Apartado 1" dentro del commit.  
+![img_1.png](img_1.png)
 
 Pregunta 
-- ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
+- ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.  
+El paso fundamental para poder tener el clon es hacer el git clone dentro de la terminal de PyCharm.  
+
 
 ### Apartado 2
 
