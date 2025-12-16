@@ -36,7 +36,7 @@ Pregunta
 
 ### Apartado 3
 
-- Realiza otro cambio desde la web de tu repositorio en GitHub.
+- Realiza otro cambio desde la web de tu repositorio en GitHub. (otra cambio desde Git Hub)
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
 Pregunta
