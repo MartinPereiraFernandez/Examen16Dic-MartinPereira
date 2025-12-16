@@ -42,7 +42,7 @@ Realizamos el cambio desde Git Hub, sería el siguiente
 - Utiliza pull para descargar los cambios realizados en tu repositorio.  
 Desde la terminal de PyCharm hacemos git pull lo que combina el git fetch y git merge.  
 git pull origin main 
-
+ 
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
